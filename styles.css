@@ -26,5 +26,10 @@ h2{
 }
 .player_two video{
 	padding:auto;
-	padding:20px;
+	width:90%;
+	margin:10px;
+	
+}
+.player_two audio{
+	width:100%;
 }

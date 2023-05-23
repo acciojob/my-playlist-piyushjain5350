@@ -13,6 +13,10 @@ h1{
 .songlist{
 	list-style:none;
 }
+.song a{
+	text-decoration:none;
+	color:black;
+}
 h2{
 	text-align:center;
 	margin :0px
